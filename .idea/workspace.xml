@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1455f8e7-fe86-4879-99be-6bae44f6a980" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/animation/ascii.html" afterDir="false" />
-    </list>
+    <list default="true" id="1455f8e7-fe86-4879-99be-6bae44f6a980" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\demek\Downloads\files\W1D6\animation" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
